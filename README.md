@@ -2,25 +2,25 @@
 
 > *Um estudo prático sobre Algoritmos de Classificação (Árvores de Decisão e Random Forest) aplicados a dados demográficos.*
 
-## 👋 Sobre Mim e o Projeto
+##  Sobre Mim e o Projeto
 Olá! Sou um desenvolvedor Front-end em transição de carreira para a área de **Data Science e Machine Learning**. 
 
 Este repositório documenta meus estudos iniciais com algoritmos de classificação supervisionada. O objetivo deste projeto não é apenas obter a maior acurácia possível, mas sim consolidar os fundamentos de pré-processamento de dados, análise exploratória e a diferença prática entre modelos de árvore única e florestas de decisão.
 
-## 📂 O Dataset
+##  O Dataset
 Utilizei a base de dados clássica **"Census Income"** (também conhecida como *Adult Data Set*).
 * **Fonte:**  https://archive.ics.uci.edu/dataset/20/census+income   -> Extraída do censo de 1994 dos EUA.
 * **Objetivo:** Prever se a renda anual de uma pessoa excede **$50.000 (<=50K ou >50K)**.
 * **Atributos:** Idade, classe de trabalho, educação, estado civil, ocupação, relacionamento, raça, sexo, horas trabalhadas por semana, país nativo, etc.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 * **Linguagem:** Python
 * **Manipulação de Dados:** Pandas, NumPy
 * **Visualização:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn (Decision Tree, Random Forest)
 * **Ferramenta:** Google Colab / Jupyter Notebook
 
-## 📈 Etapas do Projeto
+##  Etapas do Projeto
 
 ### 1. Análise Exploratória de Dados (EDA)
 Realizei uma análise visual para entender a distribuição dos dados, identificando padrões como:
@@ -53,7 +53,7 @@ Como parte do meu aprendizado contínuo, pretendo revisitar este projeto para ap
 - [ ] Testar algoritmos mais avançados como **XGBoost** ou **LightGBM**.
 - [ ] Melhorar o tratamento do desbalanceamento de classes (SMOTE).
 
-## 🤝 Contato
+##  Contato
 Se você tiver dicas ou sugestões de melhoria para o código, sinta-se à vontade para abrir uma *issue* ou entrar em contato! Estou sempre aberto a aprender.
 
 ---
